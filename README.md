@@ -1,2 +1,2 @@
-# EDA-project
+# EDA Instacart Project
 Instacart EDA
