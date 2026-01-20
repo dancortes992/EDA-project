@@ -1,5 +1,5 @@
 # EDA Practicum Project
-### Instacart Costumer Habits EDA
+### Background
 
 This project is part of the data science Tripleten bootcamp practicum concerning EDA.
 
